@@ -67,6 +67,7 @@ h2::after {
         display: grid;
         grid: 40px auto / 60px auto; 
         align-items: center;
+        margin-bottom: 40px;
     } 
         .basic > span {
             grid-area: 1/1/2/2;
@@ -158,6 +159,7 @@ h2::after {
         grid-area: 2/1/3/2;
         display: grid;
         grid: 40px auto auto / 60px auto;
+        margin-bottom: 40px;
     }
         .expr > span {
             grid-area: 1/1/2/2;
@@ -181,6 +183,7 @@ h2::after {
         grid-area: 3/1/4/2;
         display: grid;
         grid: 40px auto auto / 60px auto;
+        margin-bottom: 40px;
     }
         .proj > span {
             grid-area: 1/1/2/2;
