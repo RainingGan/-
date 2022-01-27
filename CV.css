@@ -160,7 +160,11 @@ h2::after {
         grid-area: 3/1/4/2;
     }
 }
+<<<<<<< HEAD
 @media (max-width: 360px) {
+=======
+@media (max0width: 360px) {
+>>>>>>> 4a75d62f65a82365f74e8b24537e509e12698767
     .right {
         margin: 80px 5px 0 10px; 
         grid-area: 3/1/4/2;
